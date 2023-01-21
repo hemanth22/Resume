@@ -1,4 +1,4 @@
-# Resume
-Resume of Bitra Hemanth
+## Resume
 
-Link: https://hemanth22.github.io/Resume/
+Resume buit with docsify
+
