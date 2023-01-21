@@ -30,7 +30,7 @@ We have to create some tool which can help to perform live verification even thr
 - Written a python program to execute in commmand line to read XML Rest API  
   call the API and display the output in the command line.  
 
-**Certifications**  
+##### **Certifications**  
 
 ![CKA](https://raw.githubusercontent.com/hemanth22/Images/master/cka-certified-kubernetes-administrator.png)  
 #### [CKA Certificate link](https://www.credly.com/badges/8d975c03-cb2a-454d-9f72-3d5c63e84561/public_url)
@@ -114,7 +114,7 @@ But sometime upstreams sent zero data files and half processed files which was c
 - Using autosys, we have create a filewatcher to monitor zero data and  
   partial data file size and fail it to prevent data integration and get an alert to the team  
 
-**Certifications**
+##### **Certifications**
 ![DevOps](https://raw.githubusercontent.com/hemanth22/Images/master/devops_image.png)
 #### [DevOps Certificate link](https://raw.githubusercontent.com/hemanth22/Images/master/DevOpsCertificate.jpg)
 
