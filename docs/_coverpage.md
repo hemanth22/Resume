@@ -1,3 +1,3 @@
-# Getting started in reading my profile
+# Bitra Hemanth
 
 [Get Started](?id=bitra-hemanth)
