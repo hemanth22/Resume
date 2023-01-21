@@ -1,3 +1,3 @@
 # Getting started in reading my profile
 
-[Get Started](?id=Profile)
+[Get Started](?id=BITRA HEMANTH)
