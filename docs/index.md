@@ -6,7 +6,7 @@ Site Reliability Engineer at [DBS Tech India](https://www.dbs.com/dbstechindia/i
 ### [DBS Tech India](https://www.dbs.com/dbstechindia/index.html)
 ->_Hyderabad, India_
 
-**eFx Application Specialist Developer**
+#### **eFx Application Specialist Developer**
 ->_Aug 2021 to Present_
 
 - Debugging and Supporting front office forex trade tickets issues in production.  
@@ -30,7 +30,7 @@ We have to create some tool which can help to perform live verification even thr
 - Written a python program to execute in commmand line to read XML Rest API  
   call the API and display the output in the command line.  
 
-**Certifications**  
+##### **Certifications**  
 
 ![CKA](https://raw.githubusercontent.com/hemanth22/Images/master/cka-certified-kubernetes-administrator.png)  
 #### [CKA Certificate link](https://www.credly.com/badges/8d975c03-cb2a-454d-9f72-3d5c63e84561/public_url)
@@ -38,13 +38,13 @@ We have to create some tool which can help to perform live verification even thr
 ### [Societe Generale Global Solution Centre](https://www.societegenerale.asia/en/country-details/country/india-2/)
 ->_Bangalore, India_
 
-**Specialist Software Engineer - DevOps**
+#### **Specialist Software Engineer - DevOps**
 ->_April 2021 to August 2021_
 
 - Expertise on X-ONE Trading Suite Application on multiple asset classes: IRD, CDV, Equity, Forex.
 - Expertise on Trade Life Cycle
 
-**Specialist Support Enginer**
+#### **Specialist Support Enginer**
 ->_April 2019 to March 2021_
 
 - Managing X-ONE Application escalations.
@@ -114,12 +114,12 @@ But sometime upstreams sent zero data files and half processed files which was c
 - Using autosys, we have create a filewatcher to monitor zero data and  
   partial data file size and fail it to prevent data integration and get an alert to the team  
 
-**Certifications**
+##### **Certifications**
 ![DevOps](https://raw.githubusercontent.com/hemanth22/Images/master/devops_image.png)
 #### [DevOps Certificate link](https://raw.githubusercontent.com/hemanth22/Images/master/DevOpsCertificate.jpg)
 
 
-**Support Engineer**
+#### **Support Engineer**
 ->_August 2016 to April 2019_
 
 - X-One is a Trading Application suite.
