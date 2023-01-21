@@ -1,6 +1,4 @@
-# Profile
-
-# **BITRA HEMANTH**
+# BITRA HEMANTH
 Site Reliability Engineer at [DBS Tech India](https://www.dbs.com/dbstechindia/index.html)(DBS Bank)
 
 ## Work Experience
