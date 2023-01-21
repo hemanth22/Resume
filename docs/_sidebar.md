@@ -1,7 +1,0 @@
-* [Work Experience](/?id=work-experience) 
-* [DBS Tech India](/?id=dbs-tech-india)
-* [Challenges Solved](?id=challenges-solved)
-* [Societe Generale Global Solution Centre](/?id=societe-generale-global-solution-centre)
-* [Challenges Solved](/?id=challenges-solved-1)
-* [Education](/?id=education)
-* [Personal Details](/?id=personal-details)
