@@ -6,8 +6,8 @@ Site Reliability Engineer at [DBS Tech India](https://www.dbs.com/dbstechindia/i
 ### [DBS Tech India](https://www.dbs.com/dbstechindia/index.html)
 ->_Hyderabad, India_
 
-#### **eFx Application Specialist Developer**
-->_Aug 2021 to Present_
+#### |**eFx Application Specialist Developer**|->_Aug 2021 to Present_|
+|---|---|
 
 - Debugging and Supporting front office forex trade tickets issues in production.  
 - Deployment activity like deploying microservices in openshift, mariadb database patching, OS patching.
@@ -38,14 +38,14 @@ We have to create some tool which can help to perform live verification even thr
 ### [Societe Generale Global Solution Centre](https://www.societegenerale.asia/en/country-details/country/india-2/)
 ->_Bangalore, India_
 
-#### **Specialist Software Engineer - DevOps**
-->_April 2021 to August 2021_
+#### |**Specialist Software Engineer - DevOps**|->_April 2021 to August 2021_|
+|---|---|
 
 - Expertise on X-ONE Trading Suite Application on multiple asset classes: IRD, CDV, Equity, Forex.
 - Expertise on Trade Life Cycle
 
-#### **Specialist Support Enginer**
-->_April 2019 to March 2021_
+#### |**Specialist Support Enginer**|->_April 2019 to March 2021_|
+|---|---|
 
 - Managing X-ONE Application escalations.
 - Supporting Legacy to X-ONE migration.
@@ -119,8 +119,8 @@ But sometime upstreams sent zero data files and half processed files which was c
 #### [DevOps Certificate link](https://raw.githubusercontent.com/hemanth22/Images/master/DevOpsCertificate.jpg)
 
 
-#### **Support Engineer**
-->_August 2016 to April 2019_
+#### |**Support Engineer**| ->_August 2016 to April 2019_ |
+|---|---|
 
 - X-One is a Trading Application suite.
 - Deals are also booked from different external platforms such as markitwire are captured and pushed to X-ONE from FO to BO activity.
