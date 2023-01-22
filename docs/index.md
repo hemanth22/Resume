@@ -120,7 +120,7 @@ But sometime upstreams sent zero data files and half processed files which was c
 #### [DevOps Certificate link](https://raw.githubusercontent.com/hemanth22/Images/master/DevOpsCertificate.jpg)
 
 
-|**Support Engineer**| ->_August 2016 to April 2019_ |
+|**Support Engineer**|->_August 2016 to April 2019_|
 |---|---|
 
 - X-One is a Trading Application suite.
