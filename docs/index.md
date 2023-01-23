@@ -16,20 +16,6 @@ Troubleshooting in OpenShift
 - Automation of manual tasks / activity with shellscripting and python scripting in PROD and UAT, 
 - Scheduling and Co-ordinating OS, MariaDB, Openshift patching activity for production and UAT.
 
-#### challenges solved  
-
-**Problem Statement**  
-
-For ET2 Forex Application, one of the module called RFQ (Request for Quote) program,  
-we perform live verification using __SOAP UI__ and __PostMan__ with XML Rest API,  
-but organization discontinued the software for the current project.  
-We have to create some tool which can help to perform live verification even through command line or GUI.  
-
-**Solution**  
-
-- Written a python program to execute in commmand line to read XML Rest API  
-  call the API and display the output in the command line.  
-
 ##### **Certifications**  
 
 ![CKA](https://raw.githubusercontent.com/hemanth22/Images/master/cka-certified-kubernetes-administrator.png)  
@@ -53,67 +39,6 @@ We have to create some tool which can help to perform live verification even thr
 - Supporting X-ONE Application Transversal topics like IRD, CDV, Forex, Equity, FixedIncome.
 - Automating monitoring with elasticsearch and kibana.
 - Automating daily/morning check and manual tasks.
-
-#### challenges solved  
-
-**Problem Statement**  
-
-We have production where it generate around 10GB of file, which contains financial data,  
-but there is a sequencing logic for inside file which was failing to manage sequencing inside the file.  
-So it is difficult to open the file change sequence manually.  
-
-
-**Solution**  
-
-- To solve this issue, i have written a python program to change the sequencing logic in the 10GB file and save it.  
-- As per project requirement, i have learnt dotnet and re-written the logic in dotnet program and implemented in production.  
-
-
-**Problem Statement**  
-
-Once there was a production issue, there was huge difference between number of lines and filesize of data from previous and current month.  
-Upstreams application don't have any option to check on the difference of the file.  
-We have to check manually as per the Finance team request, or else it will impacting Monthly regulatory reporting.  
-
-**Solution**  
-
-- I have created a python program that will compare the data between last working day of the last month data and last working of the current month data folders
-- sends difference of data through mail to upstream to confirm, if data quality difference is fine
-- if fine, we will integrate upstream data, or else upstream will verify the data again.
-
-**Problem Statement**  
-
-On daily basis, we send multiple files to file transfer system (i.e. UI created with IBM SFG),  
-through this portal, we can see number of files are sent and timing details,  
-but it display 10 records only at once, but we want to check 150 files at once.  
-
-**Solution**  
-
-- I have created a python program to create a daily end of the day report, to connect to file transfer system
-- get the data from file transfer system, but response will be in json format
-- we parse the json data into table format in regional wise and final mail is sent to our team.
-
-**Problem Statement**  
-
-We have few critical jobs in production, we need to check manually in autosys UI,  
-due to some code issue, job doesn't fail properly and it will be in running state in autosys UI,  
-even the fix is applied behavior job is still same, but it need to be verified on daily basis.  
-
-**Solution**  
-
-- For this issue, i have written a lucence query, that will fetch the jobs status from elasticsearch 
-- creates a report in mail and sends mail specific intervals of time and end of day report.
-
-**Problem Statement**  
-
-We get files from upstream which contains critical data for processing of daily end of month report for india regulatory reporting.  
-But sometime upstreams sent zero data files and half processed files which was creating accounting reconciliation breaks for end of month.  
-
-**Solution**  
-
-- First we took average file size which we recieve from upstream every month.
-- Using autosys, we have create a filewatcher to monitor zero data and  
-  partial data file size and fail it to prevent data integration and get an alert to the team  
 
 ##### **Certifications**
 ![DevOps](https://raw.githubusercontent.com/hemanth22/Images/master/devops_image.png)
